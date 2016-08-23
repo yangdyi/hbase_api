@@ -73,9 +73,6 @@ public class Operation {
         }
     }
 
-    public void deleteData(String tableName, String rk, String col, String value) {
-        String sql = "DELETE FROM \""+tableName+"\"WHERE ";
-    }
 
 
 
